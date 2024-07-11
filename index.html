@@ -12,7 +12,10 @@
 </head>
 <body>
   <div class="card">
-    <img src="images/image-product-mobile.jpg" alt="Product Image">
+    <picture>
+      <source media="(max-width: 600px)" srcset="images/image-product-mobile.jpg">
+      <source media="(min-width: 1500px)" srcset="images/image-product-desktop.jpg">
+    </picture>
     <div class="content">
       <h2>Perfume</h2>
 
