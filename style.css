@@ -43,6 +43,22 @@ body {
     color: #636363;
 }
 
+.card h3 {
+    font-family: 'Fraunces';
+    font-size: 32px;
+    color: #3c8067;
+    display: flex;
+}
+
+.card h4 {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 14px;
+    color: #636363;
+    text-decoration: line-through;
+    display: flex;
+}
+
 .card p {
     font-family: 'Montserrat';
     font-weight: 500;
