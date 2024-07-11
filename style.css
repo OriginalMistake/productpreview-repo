@@ -5,4 +5,27 @@
 
 body {
     background-color: #f2ebe3;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin-top: .1vh;
+    margin-bottom: .1vh;
+}
+
+.card {
+    background-color: #fff;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 250px;
+    border-radius: 5px;
+}
+
+.card img {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    max-width: 250px;
+    border-radius: 5px;
 }
