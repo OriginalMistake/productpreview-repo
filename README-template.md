@@ -51,8 +51,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [SheCodes](https://www.shecodes.io/athena/103773-how-to-uppercase-a-text-on-css#:~:text=To%20uppercase%20text%20in%20CSS,the%20targeted%20element%20to%20uppercase.&text=This%20will%20display%20%22EXAMPLE%20TEXT%22%20in%20uppercase.) - This helped me capitalise the text for 'Perfume'.
+- [SheCodes](https://www.shecodes.io/athena/38705-how-to-set-letter-spacing-in-css#:~:text=To%20set%20the%20letter%20spacing,use%20the%20letter%2Dspacing%20property.&text=In%20this%20example%2C%20the%20letter,element%20and%20set%20to%202px%20.) - This helped me with spacing out the letters in the text for "Perfume".
 
 ## Author
 
