@@ -47,7 +47,6 @@ body {
     font-family: 'Fraunces';
     font-size: 32px;
     color: #3c8067;
-    display: flex;
 }
 
 .card h4 {
@@ -56,7 +55,17 @@ body {
     font-size: 14px;
     color: #636363;
     text-decoration: line-through;
-    display: flex;
+}
+
+.card #price {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+}
+
+.card #rrp {
+    padding-left: 20px;
 }
 
 .card p {
