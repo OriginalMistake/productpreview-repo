@@ -29,6 +29,24 @@ body {
     border-radius: 5px;
 }
 
+.card h1 {
+    font-family: 'Fraunces';
+}
+
+.card h2 {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.card p {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+}
+
 .content {
     padding: 20px;
 }
