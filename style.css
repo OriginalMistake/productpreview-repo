@@ -21,7 +21,11 @@ body {
     border-radius: 10px;
 }
 
-picture {
+.img-desktop {
+    display: none;
+}
+
+.img-mobile {
     display: inline-block;
     justify-content: center;
     align-items: center;
@@ -107,5 +111,13 @@ button:hover {
 }
 
 @media (min-width: 48em) {
+    .img-mobile {
+        display: none;
+    }
+
+    .img-desktop {
+        display: block;
+    }
+
 
 }
