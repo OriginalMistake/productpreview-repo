@@ -53,6 +53,7 @@ Users should be able to:
 
 - [SheCodes](https://www.shecodes.io/athena/103773-how-to-uppercase-a-text-on-css#:~:text=To%20uppercase%20text%20in%20CSS,the%20targeted%20element%20to%20uppercase.&text=This%20will%20display%20%22EXAMPLE%20TEXT%22%20in%20uppercase.) - This helped me capitalise the text for 'Perfume'.
 - [SheCodes](https://www.shecodes.io/athena/38705-how-to-set-letter-spacing-in-css#:~:text=To%20set%20the%20letter%20spacing,use%20the%20letter%2Dspacing%20property.&text=In%20this%20example%2C%20the%20letter,element%20and%20set%20to%202px%20.) - This helped me with spacing out the letters in the text for "Perfume".
+- [Medium](https://medium.com/front-end-weekly/how-to-swap-elements-based-on-screen-size-using-css-b01ec4984ef2) - This forum helped me with setting up the webpage so based on screen size, a certain image will be shown.
 
 ## Author
 
