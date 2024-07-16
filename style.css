@@ -116,12 +116,15 @@ button:hover {
     }
 
     .img-desktop {
-        max-height: 400px;
-        display: flex;
+        max-height: 410px;
+        display: inline-block;
         float: left;
+        position: absolute;
+        margin-left: -265px;
+        border-radius: 10px 0 0 10px;
     }
 
     .card {
-        float: right;
+        border-radius: 0 10px 10px 0;
     }
 }
